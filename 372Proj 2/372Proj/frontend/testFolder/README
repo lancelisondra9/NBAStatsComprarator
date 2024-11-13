@@ -1,0 +1,5 @@
+In this folder there are unit tests that go over tests for the following functions:
+-Data Retrieval
+-Missing Data in CSV
+-Missing CSV
+-Missing Columns/Rows
